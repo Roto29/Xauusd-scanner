@@ -1,0 +1,2 @@
+# Xauusd-scanner
+AI scanner 
